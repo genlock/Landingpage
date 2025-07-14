@@ -1,0 +1,5 @@
+{
+  "name": "Under Construction Waitlist",
+  "description": "A minimalist 'Under Construction' landing page with a dynamic counter. Each button click simulates adding a new entry to a waitlist, incrementing and displaying the latest count.",
+  "requestFramePermissions": []
+}
